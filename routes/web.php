@@ -57,17 +57,3 @@ use App\Http\Controllers\WidgetController;
 
 Route::get('/user/{id}', [WidgetController::class, 'show']);
 
-// Route::get('/asd', [WidgetController::class, 'test_no_view'])->name('test_no_view');
-
-// Route::get('', [WidgetController::class, 'show']);
-
-
-//
-// // Route::middleware('test1')->group(base_path('routes/web.php'));
-// // Route::get('/widgets/test1', 'App\Http\Controllers\WidgetController@test1')->name("widgets/test1");
-// Route::get('/widgets/test1', [WidgetController::class, 'test1'])->name('widgets.test1');
-//
-// Route::get('/widget-foo', 'WidgetController@foo');
-// Route::get('/widget-bar', 'WidgetController@bar');
-//
-// // Route::get('/widget-bar', 'WidgetController@bar');
