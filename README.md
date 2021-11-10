@@ -2,8 +2,7 @@
 Code sample for job
 
 ## Demo
-- Video with comment
-- Live demo coming soon
+- Demo [demo.venus-turkey.com](https://demo.venus-turkey.com)
 - Here (on Github) you can see only warning files with custom code or template. 
 This project is upgrade site [venus-turkey.com](https://venus-turkey.com) from pure html+css to Laravel engine. It done for code demonstration.
 
